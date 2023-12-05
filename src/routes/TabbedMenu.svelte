@@ -48,7 +48,7 @@
     .tab {
       cursor: pointer;
       padding: 10px 20px;
-      background-color: #eee;
+      background-color: rgb(87, 0, 0)eee;
       border: 1px solid #ff3e00;
       border-radius: 20px;
     }
