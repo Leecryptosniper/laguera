@@ -16,10 +16,10 @@ export interface MenuItem {
 export const menuItems = writable<MenuItem[]>([
     {
         id: 12,
-        title: "Pizza Hawaiiana",
+        title: "Frijoles",
         price: 45,
         picture: frijoles,
-        description: "Una Pizza Hawaiiana",
+        description: "Frijoles hervidos",
         category: "Frijoles"
     },
     // ... other items
