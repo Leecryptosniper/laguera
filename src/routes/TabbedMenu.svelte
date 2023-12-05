@@ -118,7 +118,7 @@
   
   <div class="tabbed-menu">
     <div class="tabs">
-      {#each ['Tacos', 'Pizza', 'Postres'] as category}
+      {#each ['Frijoles', 'Postres', 'Otros'] as category}
       <div
       class="tab {category === selectedCategory ? 'active' : ''}"
       on:click={() => selectCategory(category)}
