@@ -3,7 +3,7 @@
     import type { MenuItem } from './menuStore'; 
     import { addToCart } from './CartStore.ts';
   
-    let selectedCategory = 'Tacos'; // Initialize with the first category
+    let selectedCategory = 'Frijoles'; // Initialize with the first category
   
     // Function to change the selected category
     function selectCategory(category: string) {
