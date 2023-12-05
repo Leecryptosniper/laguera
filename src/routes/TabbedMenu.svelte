@@ -97,7 +97,7 @@
         transform: translate(-50%, -50%);
         opacity: 0;
         transition: opacity 0.3s ease, transform 0.3s ease;
-        background-color: rgba(255, 255, 255, 0.8);
+        background-color: rgba(106, 125, 235, 0.8);
         padding: 10px;
         text-align: center;
         width: 100%;
