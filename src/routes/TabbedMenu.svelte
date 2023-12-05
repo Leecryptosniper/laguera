@@ -49,12 +49,12 @@
       cursor: pointer;
       padding: 10px 20px;
       background-color: rgb(238, 238, 238)eee;
-      border: 1px solid #ff3e00;
+      border: 1px solid rgba(52, 66, 146, 0.8);
       border-radius: 20px;
     }
   
     .tab.active {
-      background-color: #ff3e00;
+      background-color: rgba(106, 125, 235, 0.8);
       color: white;
     }
   
