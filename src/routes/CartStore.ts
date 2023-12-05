@@ -72,7 +72,7 @@ export const removeOneFromCart = (itemId: string) => {
 
 // ... Rest of the code remains the same
 
-const DESTINATION_NUMBER = "528999840089";  // Replace with your actual number
+const DESTINATION_NUMBER = "527421172698";  // Replace with your actual number
 
 export const generateWhatsAppMessage = (deliveryOption: string, instructions: string) => {
     let message = "🛒 *Mi Orden:* \n\n";
@@ -96,7 +96,7 @@ export const generateWhatsAppMessage = (deliveryOption: string, instructions: st
     const encodedMessage = encodeURIComponent(message);
     
     // Construct the WhatsApp URL
-    const DESTINATION_NUMBER = "528999840089";  // Replace with your actual number
+    const DESTINATION_NUMBER = "527421172698";  // Replace with your actual number
     const whatsappURL = `whatsapp://send?phone=${DESTINATION_NUMBER}&text=${encodedMessage}`;
 
     return whatsappURL;

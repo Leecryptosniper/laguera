@@ -8,7 +8,7 @@
 </script>
 
 <svelte:head>
-	<title>JosLee</title>
+	<title>La Guera</title>
 	<meta name="description" content="AUTOMATIZA TU NEGOCIO HOY!!!" />
 </svelte:head>
 
